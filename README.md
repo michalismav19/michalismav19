@@ -59,7 +59,7 @@ A project that contains:
 - REST APIs, SQL, NoSQL, MongoDB, PostgreSQL, ElasticSearch
 
 **Cloud & DevOps**
-- AWS (Lambda, ECS/Fargate), Docker, GitHub
+- AWS (Lambda, ECS/Fargate, ECR, EC2, ...), Docker, GitHub
 
 **Practices**
 - System Design, Scalability, Agile/Scrum, Code Reviews, Mentorship
